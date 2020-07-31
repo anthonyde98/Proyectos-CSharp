@@ -1,0 +1,14 @@
+1|Las Americas SDQ|Av. Las Americas|Republica Dominicana|809-412-5888|01/01/1970 
+2|14 de Junio|Constanza 41000|Republica Dominicana|809-234-6442|01/09/1950 
+3|Comodoro|Region Metropolitana|Chile|(56-2) 2690 1796|25/05/1990 
+4|Haneda|Tokyo|Japon|81357578111|15/08/1980 
+5|Narita|Chiba Prefecture 282-0004|Japon|81 476-34-8000|01/09/1950 
+6|Carambi|Las Piedras |Peru |54-5689-4113|01/01/2001 
+7|Las Prados|Las palmas|Peru|589-784-896|01/01/2001 
+8|28 de Agosto|Region Oeste|Brasil|478-8561-1548|08/05/1995 
+9|KFC|Las Pers|Panama|789-963-546|04/05/1999 
+10|Hitana|El corral #45|Japon|48-796-895|01/01/1985 
+11|Kybu|El Coral |Japan|87-896-4123|05/04/1995 
+12|Juan Bosch|El Catey, Samana, 32000|Republica Dominicana|809-338-5888|04/10/1980
+13|Reikiabik|Qiabc 9877|Islandia|897-234-234|01/01/1998
+14|El Costado|Av. Alcancer 11829|Ecuador|899-565-7787|08/10/1981

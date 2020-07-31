@@ -1,0 +1,19 @@
+1|101000|31/10/2018|Media|3|1|14 de Junio|Haneda|02/11/2018|50|Carlos Lopez 
+2|206000|31/10/2018|Alta|3|1|Las Americas SDQ|Narita|02/11/2018|150|Carlos Lopez 
+3|101500|31/10/2018|Media|3|1|Haneda|Las Americas SDQ|05/11/2018|75|Carlos Lopez 
+4|81400|31/10/2018|Media_Baja|3|1|14 de Junio|Comodoro|05/11/2018|140|Maria Castro
+5|204000|31/10/2018|Alta|3|1|Las Americas SDQ|Comodoro|01/11/2018|100|Maria Castro 
+6|206000|31/10/2018|Alta|3|1|Las Americas SDQ|Narita|02/11/2018|150|Carlos Lopez 
+7|101500|01/11/2018|Media|3|1|Haneda|Las Americas SDQ|05/11/2018|75|Carlos Lopez 
+8|81400|01/11/2018|Media_Baja|3|1|14 de Junio|Comodoro|05/11/2018|140|Maria Castro 
+9|204000|01/11/2018|Alta|3|1|Las Americas SDQ|Comodoro|05/11/2018|100|Maria Castro 
+10|206000|01/11/2018|Alta|3|1|Las Americas SDQ|Narita|02/11/2018|150|Carlos Lopez 
+11|101500|02/11/2018|Media|3|1|Haneda|Las Americas SDQ|05/11/2018|75|Carlos Lopez 
+12|81400|02/11/2018|Media_Baja|3|1|14 de Junio|Comodoro|05/11/2018|140|Maria Castro 
+13|204000|02/11/2018|Alta|3|1|Las Americas SDQ|Comodoro|06/11/2018|100|Maria Castro 
+14|204000|02/11/2018|Alta|16|14|Las Americas SDQ|Haneda|06/11/2018|100|Maria Castro 
+15|204000|03/11/2018|Alta|17|15|Juan Bosch|14 de Junio|07/11/2018|100|Pedro Ortiz
+16|206000|03/11/2018|Alta|18|16|14 de Junio|Juan Bosch|07/11/2018|150|Anthony Peralta
+17|81500|03/11/2018|Media_Baja|19|17|Las Americas SDQ|KybuReikiabik|04/11/2018|150|Armando Suriel
+18|150900|08/12/2018|Media_Alta|20|18|Comodoro|Narita|26/11/1998|30|Armando Suriel
+19|100500|08/12/2018|Media|21|19|28 de Agosto|KybuReikiabik|22/11/1989|25|Styven Peralta

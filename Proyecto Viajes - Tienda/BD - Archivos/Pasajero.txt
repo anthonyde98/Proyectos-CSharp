@@ -1,0 +1,19 @@
+1|Antony Peralta|175569|01/01/1995|O+|Soltero|La paz #78|809 987 5632|809 145 1548|Estudiante 
+2|Adrian Del Cristo|15757576|01/04/1996|O+|Soltero|Juan Pablo #47|809 274 5720|829 924 4031|Estudiante  
+3|Manuela Encarnacion|1577577567|01/01/2001|O+|Soltero|La Juna #1|809 213 5487|829 789 6413|Estudiante 
+4|Ramona Guzman|15453594|01/01/2001|O+|Soltera|El Quinto #12|809 021 5486|849 457 9856|Estudiante 
+5|Luciana Quevedo|6773564|01/01/2001|O+|Soltera|Alameda#45|809 123 6541|809 123 6548|Estudiante 
+6|Fausto Justo|345349|01/01/1995|O+|Soltero|La paz #78|809 987 5632|809 145 1548|Estudiante 
+7|Isaias Jr.|3454356|01/04/1996|O+|Soltera|Juan Pablo #47|809 274 5720|829 924 4031|Estudiante 
+8|Maria Perez|67969677|01/01/2001|O+|Soltero|El sol #1|809 213 5487|829 789 6413|Estudiante 
+9|Maximo Paul|167867|01/01/2001|O+|Soltera|La Azul #12|809 021 5486|849 457 9856|Estudiante 
+10|Javier Herrera|3453154|01/01/2001|O+|Soltera|La Paz#45|809 123 6541|809 123 6548|Estudiante 
+11|Anderson Gomez|456642279|01/01/1995|O+|Soltero|La paz #78|809 987 5632|809 145 1548|Estudiante 
+12|Jose Hernandez|56511346|01/04/1996|O+|Casado|Juan Pablo #47|809 274 5720|829 924 4031|Estudiante 
+13|Enriquez Rodriguez|754878567|01/01/2001|O+|Soltero|El sol #1|809 213 5487|829 789 6413|Estudiante 
+14|Arturo Gonzales|1679645|01/05/1995|O+|Soltero|El Sol #47|829-985-7854|809-896-5621|Estudiante 
+15|Anthony Peralta|31414134|08/10/1999|O+|Soltero|Desiderio Arias #94a|829-819-5019|809-390-6181|Estudiante
+16|Carlos Jimenez|213123|02/02/1998|A-|Casado|Maximo Gomez|123-123-2322|342-234-3243|Estudiante
+17|Juana Hernandez|1231232|01/03/1978|AB-|Casada|Las Palmas de Herrera|123-978-2343|123-873-1214|Cajera
+18|Carlos Martinez|8977823|26/11/1998|O-|Soltero|Palmas de Herrera|809-897-9877|809-987-9877|Estudiante
+19|Orlando Guerrero|1321368|22/11/1989|O+|Casado|Piantini #677|809-988-9878|829-897-0987|Ingeniero

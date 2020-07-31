@@ -1,0 +1,12 @@
+1|Boeing|Japonez_|01/10/1969 
+2|AirBool|Coreano_|01/01/1980 
+3|Oilbuk|Europeo_|01/01/1950 
+4|Airlol|Chino_|01/07/1995 
+5|Oil|ZDesconocido_|01/01/2001
+6|Oasis|Coreano_|01/01/1980 
+7|Airtool|Europeo_|09/08/1985 
+8|Airtray|Americano_|01/04/1985 
+9|Airbus|Europeo_|02/08/2001
+10|Aicoef|Coreano_|01/11/1945
+11|Bieceq|Europeo_|27/01/1979
+12|Ceniet|ZDesconocido_|08/01/2003

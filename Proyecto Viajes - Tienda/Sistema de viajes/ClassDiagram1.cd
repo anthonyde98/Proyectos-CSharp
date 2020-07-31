@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Sistema_de_viajes.Edificacion.Aeropuerto">
+    <Position X="16.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIgAgBAAAAKAIECAABIgAAAIEAWAACIIAAAAAgAAA=</HashCode>
+      <FileName>Aeropuerto.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Sistema_de_viajes.Vehiculo.Avion">
+    <Position X="9" Y="1.75" Width="1.5" />
+    <InheritanceLine Type="Sistema_de_viajes.IOAqui.DataInterface" FixedToPoint="true">
+      <Path>
+        <Point X="10.75" Y="1.062" />
+        <Point X="10.75" Y="1.375" />
+        <Point X="9.75" Y="1.375" />
+        <Point X="9.75" Y="1.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAgDYBAAEAAIhIgQAAIACSCAAIAQEAAAggAA=</HashCode>
+      <FileName>Avion.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Sistema_de_viajes.Vehiculo.Marca">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <InheritanceLine Type="Sistema_de_viajes.IOAqui.DataInterface" FixedToPoint="true">
+      <Path>
+        <Point X="10.75" Y="1.062" />
+        <Point X="10.75" Y="1.375" />
+        <Point X="14.75" Y="1.375" />
+        <Point X="14.75" Y="1.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAACgECEIMAQAgAAAAAEQAAAoAAEABAgAAA=</HashCode>
+      <FileName>Marca.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Sistema_de_viajes.Vehiculo.Modelo">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEAAAAAAAAAAACEQQBRAgAAAgAQQEAAIAAEAAAggAA=</HashCode>
+      <FileName>Modelo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Sistema_de_viajes.Boleta">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIC4QAE4QIBKEAAAkAgAAAAAAVIgAsAJAACAxAAA=</HashCode>
+      <FileName>Boleta.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Sistema_de_viajes.Program">
+    <Position X="19" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABCAABCAAAKAAAEAAEoAABGBAAKQAAIQDIBAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_viajes.IOAqui.DataInterface" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQACQAAQAAAgAAAAAIACAAAQIgAAAAEAIAgAAAAAQAA=</HashCode>
+      <FileName>DataInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_viajes.Personas.Pasajero">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAIABAAAEAAEAFCVYgQQABBAQAACIYAEAgAgAAA=</HashCode>
+      <FileName>Pasajero.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Sistema_de_viajes.Personas.Piloto">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAACAEBEAEAAIEAFCVYgSAAAAAQEQCIIAEBgQgAAA=</HashCode>
+      <FileName>Piloto.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Sistema_de_viajes.IOAqui.iPersistencia">
+    <Position X="11.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAQAAAIAAAAAAgAAA=</HashCode>
+      <FileName>iPersistencia.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Sistema_de_viajes.Vehiculo.NivelSeguridad">
+    <Position X="16.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Avion.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Sistema_de_viajes.Vehiculo.OrigenVehiculo">
+    <Position X="19" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAEAAAAAAAEAAIQAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Marca.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Sistema_de_viajes.ClaseBoleta">
+    <Position X="14" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAEAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Boleta.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
